@@ -27,7 +27,7 @@ soracom_connection = {
 		'uuid': str(uuid.uuid4())
 	},
 	'gsm': {
-		'apn': 'ims',
+		'apn': 'h2g2',
 		'number': '*99***1#'
 	},
 	'ipv4': {'method': 'auto'},
